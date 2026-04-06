@@ -1,0 +1,2 @@
+# Quize App
+Add browser-based multiple choice quiz app  Built a fully client-side quiz application using vanilla HTML, CSS, and JavaScript.  Features: - Start screen with quiz overview and rules - 10 multiple choice questions rendered as interactive cards - 60-second countdown timer per question with animated SVG ring - Instant answer feedback with green/correct and red/wrong highlighting - Auto-skip on timeout with -1 score penalty - Final results screen with score, percentage, and per-question breakdown - Fully responsive layout with no external dependencies
